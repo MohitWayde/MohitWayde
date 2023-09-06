@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hello World! 👋
+## <code>Hi, I am Mohit Wayde</code>
+# Passionate Computer Engineer
+# I enjoy coding and playing with my computer in a constructive way
+
 
 <!--
 **MohitWayde/MohitWayde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
