@@ -1,7 +1,7 @@
 # Hello World! 👋
 ## \<code>Hi, I am Mohit Wayde\</code>
-# Passionate Computer Engineer
-# I enjoy coding and playing with my computer in a constructive way
+### Passionate Computer Engineer
+#### I enjoy coding and playing with my computer in a constructive way
 
 
 <!--
